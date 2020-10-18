@@ -1203,17 +1203,17 @@
     html-minifier "^4.0.0"
     node-html-parser "^1.2.20"
 
-"@nuxt/http@^0.5.11":
-  version "0.5.11"
-  resolved "https://registry.yarnpkg.com/@nuxt/http/-/http-0.5.11.tgz#7ebe3a408a497f411d50260e7cdae5cbf9348e50"
-  integrity sha512-JU967q283r1f0OAAdghiu/O9jvcARzaSHhGdQA1/tRP6etvS8x5LSmwfgIMAdeVyvOvEFu46gmTpgk4+WoCV0g==
+"@nuxt/http@^0.5.13":
+  version "0.5.13"
+  resolved "https://registry.yarnpkg.com/@nuxt/http/-/http-0.5.13.tgz#ccb06195e5125ba50863d490d245f88be745b737"
+  integrity sha512-YqI/TgoO0JTMrTOPBbqI43xItiEMgek6EoMdyqXUDeFniH7v/T/RrD0R/dHZVH3A32STNmVWCcmiAl/BuJA4Pw==
   dependencies:
     "@nuxtjs/proxy" "^2.0.1"
     abort-controller "^3.0.0"
     consola "^2.15.0"
     destr "^1.0.0"
     ky "^0.23.0"
-    node-fetch "^2.6.0"
+    node-fetch "^2.6.1"
     web-streams-polyfill "^3.0.0"
 
 "@nuxt/loading-screen@^2.0.2":
@@ -8783,6 +8783,11 @@ node-fetch@^2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
   integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+
+node-fetch@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-gyp@^3.8.0:
   version "3.8.0"
